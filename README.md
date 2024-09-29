@@ -107,4 +107,5 @@ Capture and address specific business needs from various stakeholders, ensuring 
 This Power BI project has been an invaluable learning experience, enhancing my skills in transforming raw data into actionable insights. I aim to apply these learnings to enable AtliQ Hardware to make data-driven decisions, ultimately driving operational efficiency and fostering improved business performance across the organization.<br /><br />
 **Novypro Business Insights 360:** [Access Live Report Link](https://www.novypro.com/create_project/atliq-hardware-business-insights-360-32)<br />
 [PDF](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Business%20Insights%20360%20-%20Power%20BI%20Project.pdf)
+
 ### Thank You!
