@@ -13,13 +13,13 @@ AltiQ Hardware, a global leader in computers and accessories, faced unexpected l
 
 To outshine competitors, they've adopted Power BI for analytics with 1.8 million transaction records from Excel, CSV, and MySQL. The Power BI Dashboard includes:
 
-**Home Page**: Central navigation for Dashboard.
-**Finance**: Enhances financial planning.
-**Sales**: Boosts revenue and market share.
-**Marketing**: Elevates brand visibility.
-**Supply Chain**: Optimizes inventory management.
-**Executive**: Provides top management overview.
-**Info**: Provides an overview and guidance on how to navigate and use the Power BI Dashboard effectively.
+**Home Page**: Central navigation for Dashboard.<br />
+**Finance**: Enhances financial planning.<br />
+**Sales**: Boosts revenue and market share.<br />
+**Marketing**: Elevates brand visibility.<br />
+**Supply Chain**: Optimizes inventory management.<br />
+**Executive**: Provides top management overview.<br />
+**Info**: Provides an overview and guidance on how to navigate and use the Power BI Dashboard effectively.<br />
 **Support**: Offers resources and assistance for troubleshooting, FAQs, and help with dashboard functionalities.
 ## Tech Stacks
 ***Power BI Desktop***<br />
