@@ -71,7 +71,7 @@ such that stakeholders can unlock insights and enable data-driven decision-makin
 ## Report Overview
 **Home Page**<br />
 The Home view serves as the central hub, presenting users with convenient access to various specific views through dedicated buttons. Users can seamlessly navigate to their desired sections by clicking on the respective buttons.<br /><br />
-![Home Page]([https://github.com/user-attachments/assets/4b6a9136-5bc2-4a18-a77f-864a1df2a2f5](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Home%20Page.png))
+![Home Page](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Home%20Page.png)
 
 **Finance View**<br />
 Get comprehensive Profit and Loss (P&L) statements effortlessly, tailoring analyses for specific customers, products, or countries, and aggregating data over flexible time periods.<br /><br />
