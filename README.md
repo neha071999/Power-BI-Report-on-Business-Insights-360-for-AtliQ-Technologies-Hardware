@@ -51,8 +51,8 @@ Contains data about transactions:
 **4. pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year.<br />
 **5. post_invoice_deductions**: Post-invoice deductions and other deductions details.
 ## Data Modelling and Relationships
-Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.<br />
-In this project, we followed the **Snowflake** data modeling method.<br />
+Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.<br /><br />
+In this project, we followed the **Snowflake** data modeling method.<br /><br />
 ![Data Model](https://github.com/user-attachments/assets/0c39ea3e-708c-4466-b732-61e1f1423c96)
 
 ## Task
