@@ -53,7 +53,7 @@ Contains data about transactions:
 ## Data Modelling and Relationships
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.<br /><br />
 In this project, we followed the **Snowflake** data modeling method.<br /><br />
-![Data Model](https://github.com/user-attachments/assets/0c39ea3e-708c-4466-b732-61e1f1423c96)
+![Data Model](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Data%20Model.png)
 
 ## Task
 As a Data Analyst generate insights through reports built considering different sections such as
@@ -75,32 +75,32 @@ The Home view serves as the central hub, presenting users with convenient access
 
 **Finance View**<br />
 Get comprehensive Profit and Loss (P&L) statements effortlessly, tailoring analyses for specific customers, products, or countries, and aggregating data over flexible time periods.<br /><br />
-![Finance View](https://github.com/user-attachments/assets/dcb5e067-9d84-461f-8a0b-94fe41ed0ddd)
+![Finance View](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Finance%20View.png)
 
 
 **Sales View**<br />
 Examine your product(s) performance by scrutinizing critical metrics such as Net Sales and Gross Margin.<br /><br />
-![Sales View](https://github.com/user-attachments/assets/d19bf4ba-a8f6-49d6-aedb-43fe6907fd89)
+![Sales View](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Sales%20View.png)
 
 
 **Marketing View**<br />
 Analyze the performance of the customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.<br /><br />
-![Marketing View](https://github.com/user-attachments/assets/92117694-2666-4332-97b4-6e0d60f1a293)
+![Marketing View](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Marketing%20View.png)
 
 
 **Supply Chain View**<br />
 Evaluate Forecast Accuracy, Net Error, and risk profiles for various entities such as products, segments, categorie s, and customers. Gain a comprehensive understanding of forecasting precision and associated risks for informed decision-making.<br /><br />
-![Supply Chain View](https://github.com/user-attachments/assets/2a64f29a-8704-47c1-9b98-3efb448723b5)
+![Supply Chain View](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Supply%20Chain%20View.png)
 
 
 **Executive View**<br />
 A high-level executive dashboard that consolidates key insights from all dimensions of the business. Provide a centralized view to executives, offering comprehensive and strategic overviews across various facets of the organization.<br /><br />
-![Executive View](https://github.com/user-attachments/assets/1d440e4c-16c0-44c1-8704-38923d1a5091)
+![Executive View](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Executive%20View.png)
 
 
 **Stakeholder Request** <br />
 Capture and address specific business needs from various stakeholders, ensuring relevant insights are delivered across finance, sales, marketing, and supply chain views. Enable informed decision-making by fulfilling their key data requirements and metrics.<br /><br />
-![Stakeholder Request](https://github.com/user-attachments/assets/443461d5-1265-4381-8733-70e3ba007126)
+![Stakeholder Request](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Stakeholder%20Request.png)
 
 <br /><br />
 This Power BI project has been an invaluable learning experience, enhancing my skills in transforming raw data into actionable insights. I aim to apply these learnings to enable AtliQ Hardware to make data-driven decisions, ultimately driving operational efficiency and fostering improved business performance across the organization.
