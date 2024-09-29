@@ -22,17 +22,12 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 **Info**: Provides an overview and guidance on how to navigate and use the Power BI Dashboard effectively.
 **Support**: Offers resources and assistance for troubleshooting, FAQs, and help with dashboard functionalities.
 ## Tech Stacks
-*Power BI Desktop*
-
-*SQL*
-
-*DAX language*
-
-*Power Query*
-
-*Excel*
-
-*DAX Studio (for optimizing the report)*
+***Power BI Desktop***<br />
+***SQL***<br />
+***DAX language***<br />
+***Power Query***<br />
+***Excel***<br />
+***DAX Studio (for optimizing the report)***
 ## About the Dataset
 Understanding available data is crucial before performing analysis. Ensure a good understanding of the available data before jumping into the analysis.
 
@@ -61,20 +56,13 @@ In this project, we followed the **Snowflake** data modeling method.
 ## Task
 As a Data Analyst generate insights through reports built considering different sections such as
 
-Home Page
-
-Finance view
-
-Sales view
-
-Marketing view
-
-Supply Chain
-
-Executive View
-
-Info
-
+Home Page<br />
+Finance view<br />
+Sales view<br />
+Marketing view<br />
+Supply Chain<br />
+Executive View<br />
+Info<br />
 Support
 
 such that stakeholders can unlock insights and enable data-driven decision-making.
