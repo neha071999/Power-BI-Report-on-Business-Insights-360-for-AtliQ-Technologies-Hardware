@@ -67,44 +67,37 @@ Support
 
 such that stakeholders can unlock insights and enable data-driven decision-making.
 ## Report Overview
-**Home Page**
-The Home view serves as the central hub, presenting users with convenient access to various specific views through dedicated buttons. Users can seamlessly navigate to their desired sections by clicking on the respective buttons.
-
+**Home Page**<br />
+The Home view serves as the central hub, presenting users with convenient access to various specific views through dedicated buttons. Users can seamlessly navigate to their desired sections by clicking on the respective buttons.<br />
 ![Home Page](https://github.com/user-attachments/assets/4b6a9136-5bc2-4a18-a77f-864a1df2a2f5)
 
-**Finance View**
-Get comprehensive Profit and Loss (P&L) statements effortlessly, tailoring analyses for specific customers, products, or countries, and aggregating data over flexible time periods.
-
+**Finance View**<br />
+Get comprehensive Profit and Loss (P&L) statements effortlessly, tailoring analyses for specific customers, products, or countries, and aggregating data over flexible time periods.<br />
 ![Finance View](https://github.com/user-attachments/assets/dcb5e067-9d84-461f-8a0b-94fe41ed0ddd)
 
 
-**Sales View**
-Examine your product(s) performance by scrutinizing critical metrics such as Net Sales and Gross Margin.
-
+**Sales View**<br />
+Examine your product(s) performance by scrutinizing critical metrics such as Net Sales and Gross Margin.<br />
 ![Sales View](https://github.com/user-attachments/assets/d19bf4ba-a8f6-49d6-aedb-43fe6907fd89)
 
 
-**Marketing View**
-Analyze the performance of the customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
-
+**Marketing View**<br />
+Analyze the performance of the customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.<br />
 ![Marketing View](https://github.com/user-attachments/assets/92117694-2666-4332-97b4-6e0d60f1a293)
 
 
-**Supply Chain View**
-Evaluate Forecast Accuracy, Net Error, and risk profiles for various entities such as products, segments, categorie s, and customers. Gain a comprehensive understanding of forecasting precision and associated risks for informed decision-making.
-
+**Supply Chain View**<br />
+Evaluate Forecast Accuracy, Net Error, and risk profiles for various entities such as products, segments, categorie s, and customers. Gain a comprehensive understanding of forecasting precision and associated risks for informed decision-making.<br />
 ![Supply Chain View](https://github.com/user-attachments/assets/2a64f29a-8704-47c1-9b98-3efb448723b5)
 
 
-**Executive View**
-A high-level executive dashboard that consolidates key insights from all dimensions of the business. Provide a centralized view to executives, offering comprehensive and strategic overviews across various facets of the organization.
-
+**Executive View**<br />
+A high-level executive dashboard that consolidates key insights from all dimensions of the business. Provide a centralized view to executives, offering comprehensive and strategic overviews across various facets of the organization.<br />
 ![Executive View](https://github.com/user-attachments/assets/1d440e4c-16c0-44c1-8704-38923d1a5091)
 
 
-**Stakeholder Request** 
-Capture and address specific business needs from various stakeholders, ensuring relevant insights are delivered across finance, sales, marketing, and supply chain views. Enable informed decision-making by fulfilling their key data requirements and metrics.
-
+**Stakeholder Request** <br />
+Capture and address specific business needs from various stakeholders, ensuring relevant insights are delivered across finance, sales, marketing, and supply chain views. Enable informed decision-making by fulfilling their key data requirements and metrics.<br />
 ![Stakeholder Request](https://github.com/user-attachments/assets/443461d5-1265-4381-8733-70e3ba007126)
 
 
