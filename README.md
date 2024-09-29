@@ -34,21 +34,21 @@ Understanding available data is crucial before performing analysis. Ensure a goo
 **Dimension Table**
 Contains static data like details of customers and products:
 
-**1. dim_customer**: 27 distinct markets (e.g., India, USA, Spain), 75 distinct customers throughout the market, 2 types of platforms (Brick & Mortar - Physical/offline store, E-commerce - Online Store), and three channels (Retailer, Direct, Distributors).
-**2. dim_market**: 27 distinct markets, 7 sub-zones, 4 regions (APAC, EU, NA, LATAM).
+**1. dim_customer**: 27 distinct markets (e.g., India, USA, Spain), 75 distinct customers throughout the market, 2 types of platforms (Brick & Mortar - Physical/offline store, E-commerce - Online Store), and three channels (Retailer, Direct, Distributors).<br />
+**2. dim_market**: 27 distinct markets, 7 sub-zones, 4 regions (APAC, EU, NA, LATAM).<br />
 **3. dim_product**: Divisions (P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage), 14 different categories, and different variants available for the same product.
 
 **Fact Table**
 Contains data about transactions:
 
-**1. fact_forecast_monthly**: Used to forecast customer needs in advance, aiming for higher customer satisfaction and reduced storage costs. The table is denormalized by the data engineering team for analytical work, with all dates of the month replaced by the start date of the month.
+**1. fact_forecast_monthly**: Used to forecast customer needs in advance, aiming for higher customer satisfaction and reduced storage costs. The table is denormalized by the data engineering team for analytical work, with all dates of the month replaced by the start date of the month.<br />
 **2. fact_sales_monthly**: Similar to the fact_forecast_monthly table but with sold quantity instead of forecast value.
 
 **Other Tables**
-**1. freight_cost**: Details of travel and other costs for each market with the fiscal year.
-**2. gross_price**: Details of gross prices with product code.
-**3. manufacturing_cost**: Details of manufacturing costs with product code and year.
-**4. pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year.
+**1. freight_cost**: Details of travel and other costs for each market with the fiscal year.<br />
+**2. gross_price**: Details of gross prices with product code.<br />
+**3. manufacturing_cost**: Details of manufacturing costs with product code and year.<br />
+**4. pre_invoice_deductions**: Details of pre-invoice deductions percentage for each customer with year.<br />
 **5. post_invoice_deductions**: Post-invoice deductions and other deductions details.
 ## Data Modelling and Relationships
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.
