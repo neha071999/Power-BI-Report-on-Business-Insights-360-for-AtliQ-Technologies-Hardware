@@ -4,7 +4,9 @@ Welcome to the Business Insights 360 project repository. This project demonstrat
 AtliQ Hardware is a company that has grown vastly in recent years and opened businesses all over the globe. It sells computers and computer accessories through three mediums/channels:
 
 *Retailers*
+
 *Direct*
+
 *Distributors*
 
 While they grew substantially in the last few years, they also had some bitter experiences in Latin America. They tried establishing their presence there but faced huge losses because all decisions were based on some surveys, intuitions, and some basic Excel based Data Analysis. They were using Excel for analysis but now the company got big so they switched over to PowerBI and wanted to bring lot of transparency in the data and make accurate decisions. Their competitors are growing and making use of data analysis on a large scale and they too want to leverage the power of data analysis. Therefore, AtliQ Hardware had no other option but to build its analytics team for data-driven insights and decisions in the future to survive better in the industry.
