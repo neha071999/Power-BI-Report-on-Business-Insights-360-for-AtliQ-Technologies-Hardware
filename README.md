@@ -100,7 +100,7 @@ A high-level executive dashboard that consolidates key insights from all dimensi
 Capture and address specific business needs from various stakeholders, ensuring relevant insights are delivered across finance, sales, marketing, and supply chain views. Enable informed decision-making by fulfilling their key data requirements and metrics.<br /><br />
 ![Stakeholder Request](https://github.com/user-attachments/assets/443461d5-1265-4381-8733-70e3ba007126)
 
-
+<br /><br />
 This Power BI project has been an invaluable learning experience, enhancing my skills in transforming raw data into actionable insights. I aim to apply these learnings to enable AtliQ Hardware to make data-driven decisions, ultimately driving operational efficiency and fostering improved business performance across the organization.
 
 ### Thank You!
