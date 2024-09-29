@@ -22,12 +22,12 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 **Info**: Provides an overview and guidance on how to navigate and use the Power BI Dashboard effectively.<br />
 **Support**: Offers resources and assistance for troubleshooting, FAQs, and help with dashboard functionalities.
 ## Tech Stacks
-***Power BI Desktop***<br />
-***SQL***<br />
-***DAX language***<br />
-***Power Query***<br />
-***Excel***<br />
-***DAX Studio (for optimizing the report)***
+*Power BI Desktop*<br />
+*SQL*<br />
+*DAX language*<br />
+*Power Query*<br />
+*Excel*<br />
+*DAX Studio (for optimizing the report)*
 ## About the Dataset
 Understanding available data is crucial before performing analysis. Ensure a good understanding of the available data before jumping into the analysis.
 
