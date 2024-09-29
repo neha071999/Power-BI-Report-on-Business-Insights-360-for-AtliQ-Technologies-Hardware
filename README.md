@@ -67,7 +67,7 @@ Marketing view<br />
 Supply Chain<br />
 Executive View<br />
 Info<br />
-Support
+Support<br />
 such that stakeholders can unlock insights and enable data-driven decision-making.
 ## Report Overview
 **Home Page**<br />
