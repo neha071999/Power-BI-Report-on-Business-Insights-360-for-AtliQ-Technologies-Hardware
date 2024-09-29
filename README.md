@@ -1,8 +1,7 @@
 # Power-BI-Project-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware
 Welcome to the Business Insights 360 project repository. This project demonstrates comprehensive data analysis and visualization using Power BI. It covers various aspects of data handling, from extraction and transformation to visualization and reporting, leveraging the robust capabilities of Power BI.<br /><br />
 
-**Business Insights 360:** [Access Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZWZjZjQtNzc5Yi00ZTE0LThkMTUtMGRiODVlNzNiODEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br />
-**Novypro BI 360:** [Access Live Report Link](https://www.novypro.com/create_project/atliq-hardware-business-insights-360-32)
+**Business Insights 360:** [Access Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZWZjZjQtNzc5Yi00ZTE0LThkMTUtMGRiODVlNzNiODEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## Company’s Background
 AtliQ Hardware is a company that has grown vastly in recent years and opened businesses all over the globe. It sells computers and computer accessories through three mediums/channels:
 
@@ -69,7 +68,6 @@ Supply Chain<br />
 Executive View<br />
 Info<br />
 Support
-
 such that stakeholders can unlock insights and enable data-driven decision-making.
 ## Report Overview
 **Home Page**<br />
@@ -106,6 +104,7 @@ Capture and address specific business needs from various stakeholders, ensuring 
 ![Stakeholder Request](https://github.com/neha071999/Power-BI-Report-on-Business-Insights-360-for-AtliQ-Technologies-Hardware/blob/main/Dashboards/Stakeholder%20Request.png)
 
 <br /><br />
-This Power BI project has been an invaluable learning experience, enhancing my skills in transforming raw data into actionable insights. I aim to apply these learnings to enable AtliQ Hardware to make data-driven decisions, ultimately driving operational efficiency and fostering improved business performance across the organization.
+This Power BI project has been an invaluable learning experience, enhancing my skills in transforming raw data into actionable insights. I aim to apply these learnings to enable AtliQ Hardware to make data-driven decisions, ultimately driving operational efficiency and fostering improved business performance across the organization.<br />
+**Novypro Business Insights 360:** [Access Live Report Link](https://www.novypro.com/create_project/atliq-hardware-business-insights-360-32)
 
 ### Thank You!
