@@ -44,7 +44,7 @@ Contains data about transactions:
 **1. fact_forecast_monthly**: Used to forecast customer needs in advance, aiming for higher customer satisfaction and reduced storage costs. The table is denormalized by the data engineering team for analytical work, with all dates of the month replaced by the start date of the month.<br />
 **2. fact_sales_monthly**: Similar to the fact_forecast_monthly table but with sold quantity instead of forecast value.
 
-**Other Tables**
+**Other Tables**<br />
 **1. freight_cost**: Details of travel and other costs for each market with the fiscal year.<br />
 **2. gross_price**: Details of gross prices with product code.<br />
 **3. manufacturing_cost**: Details of manufacturing costs with product code and year.<br />
